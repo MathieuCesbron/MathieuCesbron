@@ -1,4 +1,4 @@
-Go/Cloud Developer.
+Go/Cloud/Crypto Developer.
 
 Some of the open sources projects I worked on:
 
